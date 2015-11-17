@@ -1,0 +1,5 @@
+default:
+  extensions:
+    Behat\MinkExtension:
+      base_url:  'https://www.exness.com'
+      selenium2: ~
